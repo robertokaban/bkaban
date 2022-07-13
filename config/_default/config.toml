@@ -1,4 +1,4 @@
-baseurl = "https://robertokaban.github.io/"
+baseurl = "https://kaban.my.id/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

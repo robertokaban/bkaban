@@ -2,8 +2,8 @@
 title: "Pesta Bunga dan Buah di Berastagi Kabupaten Karo"
 description: "Pesta Bunga dan Buah di Berastagi (Kab. Karo) merupakan sebuah festival ataupun pesta tahunan yang pada awalnya dilaksanakan untuk mengucap syukur kepada Tuhan karena telah memberikan masyarakat Karo tanah yang subur."
 excerpt: "Pesta Bunga dan Buah di Berastagi (Kab. Karo) merupakan sebuah festival ataupun pesta tahunan yang pada awalnya dilaksanakan untuk mengucap syukur kepada Tuhan karena telah memberikan masyarakat Karo tanah yang subur."
-date: 2020-07-12T13:57:55+07:00
-lastmod: 2020-07-12T13:57:55+07:00
+date: 2022-07-01T13:57:55+07:00
+lastmod: 2022-07-01T13:57:55+07:00
 draft: false
 weight: 50
 images: []

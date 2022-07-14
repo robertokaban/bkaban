@@ -2,8 +2,8 @@
 title: "Blockchains Penggebrak Desentralisasi Privasi?"
 description: "bitcoin yang memungkinkan penggunanya melakukan transfer mata uang (currency) dengan aman tanpa pengatur yang terpusat (centralized), dengan menggunakan open ledger (blockchains) yang terbukti tangguh."
 excerpt: "bitcoin yang memungkinkan penggunanya melakukan transfer mata uang (currency) dengan aman tanpa pengatur yang terpusat (centralized), dengan menggunakan open ledger (blockchains) yang terbukti tangguh"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2020-06-04T09:19:42+01:00
+lastmod: 2020-06-04T09:19:42+01:00
 draft: false
 weight: 250
 images: []

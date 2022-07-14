@@ -2,8 +2,8 @@
 title: "10 Pertanyaan Mendasar Tentang Blockchain Yang Anda Harus Tahu Jawabannya"
 description: "Blockchain adalah serangkaian blok yang berisi informasi. Blok-blok ini saling terkait dan dilindungi keunikannya dengan hash (seperti tanda tangan digital yang unik, bisa diumpamakan juga seperti sidik jari yang tidak mungkin sama di antara satu dengan lainnya)."
 excerpt: "Blockchain adalah serangkaian blok yang berisi informasi. Blok-blok ini saling terkait dan dilindungi keunikannya dengan hash."
-date: 2022-07-12T19:35:40+07:00
-lastmod: 2022-07-12T19:35:40+07:00
+date: 2020-06-12T19:35:40+07:00
+lastmod: 2020-06-12T19:35:40+07:00
 draft: true
 weight: 50
 images: []

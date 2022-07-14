@@ -7,7 +7,7 @@ lastmod: 2020-07-12T13:57:55+07:00
 draft: false
 weight: 50
 images: []
-categories: ["News", "Tools", "Pemrograman", "Networking"]
+categories: ["Tools", "Pemrograman", "Networking"]
 tags: ["CLI","Command Line"]
 contributors: ["Roberto Kaban"]
 pinned: false

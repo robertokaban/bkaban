@@ -9,7 +9,7 @@ weight: 50
 images: []
 categories: ["Karo", "Tanah Karo"]
 tags: ["Pesta Bunga","Pesta Buah", "Pesta Bunga Buah Berastagi"]
-contributors: []
+contributors: ["Roberto Kaban"]
 pinned: false
 homepage: false
 toc: true

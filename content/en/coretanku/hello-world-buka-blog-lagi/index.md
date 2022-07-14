@@ -9,7 +9,7 @@ weight: 50
 images: []
 categories: ["Blog"]
 tags: ["Migrasi Blog","Core Blog", "Pindah ke Github"]
-contributors: []
+contributors: ["Roberto Kaban"]
 pinned: false
 homepage: false
 toc: true

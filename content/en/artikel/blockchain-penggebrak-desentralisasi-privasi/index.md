@@ -7,7 +7,6 @@ lastmod: 2020-06-04T09:19:42+01:00
 draft: false
 weight: 250
 images: []
-feature_image: ../images/tn.png
 categories: ["Teknologi", "Blockchain", "Bitcoin", "Desentralisasi"]
 tags: ["Desentralisasi privasi", "Keamanan data", "Bitcoin"]
 contributors: ["Roberto Kaban"]

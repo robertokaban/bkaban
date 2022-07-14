@@ -41,9 +41,9 @@
         {{ end -}}
       </div>
       {{ end -}}
-
+      {{ template "_internal/disqus.html" . }}
       <div class="page-footer-meta d-flex flex-column flex-md-row justify-content-between">
-        {{ template "_internal/disqus.html" . }}
+       
         {{ if .Site.Params.lastMod -}}
           {{ partial "main/last-modified.html" . }}
         {{ end -}}
@@ -62,6 +62,7 @@
     </main>
     
   </div>
+ 
 </article>
 {{ $related := .Site.RegularPages.Related . | first 3 -}}
 {{ with $related -}}

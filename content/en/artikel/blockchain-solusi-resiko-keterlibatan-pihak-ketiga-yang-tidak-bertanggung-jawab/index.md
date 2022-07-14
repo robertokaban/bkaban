@@ -1,7 +1,7 @@
 ---
 title: "Blockchain: Solusi Resiko Keterlibatan Pihak Ketiga yang Tidak Bertanggung Jawab"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-excerpt: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: "Tidak ada satu pun transaksi dalam kehidupan manusia modern yang berhubungan dengan internet yang benar-benar terlepas dari pihak ketiga. Dalam sistem blockchain, pihak ketiga ini disebut “services” (yang memberikan layanan)."
+excerpt: "Tidak ada satu pun transaksi dalam kehidupan manusia modern yang berhubungan dengan internet yang benar-benar terlepas dari pihak ketiga. Dalam sistem blockchain, pihak ketiga ini disebut “services” (yang memberikan layanan)."
 date: 2020-06-04T09:19:42+01:00
 lastmod: 2020-06-04T09:19:42+01:00
 draft: false

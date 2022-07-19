@@ -1,6 +1,7 @@
 ---
 title: "Perintah dasar Linux"
 description: "Linux adalah keluarga sistem operasi turunan Unix yang bersifat _open-source_ dan didasarkan pada Linux Kernel. Terdapat berbagai distribusi (Distro) linux yang populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Berikut ini perintah dasar dalam Linux."
+excerpt: "Linux adalah keluarga sistem operasi turunan Unix yang bersifat _open-source_ dan didasarkan pada Linux Kernel. Terdapat berbagai distribusi (Distro) linux yang populer seperti Ubuntu, Fedora, Mint, Debian, dan lain-lain. Berikut ini perintah dasar dalam Linux."
 date: 2020-07-18T13:57:55+07:00
 lastmod: 2020-07-18T13:57:55+07:00
 draft: false

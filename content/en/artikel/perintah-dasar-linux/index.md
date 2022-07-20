@@ -215,7 +215,7 @@ Perintah `echo` dasar Linux ini digunakan untuk memindahkan beberapa data ke dal
 
 ### perintah _zip_ , _unzip_
 
-Gunakan perintah ``zip untuk __compress__ file ke arsip _zip_ dan perintah `unzip` untuk mengekstrak file zip ke arsip zip.
+Gunakan perintah `zip` untuk __compress__ file ke arsip _zip_ dan perintah `unzip` untuk mengekstrak file zip ke arsip zip.
 
 ### perintah _hostname_
 

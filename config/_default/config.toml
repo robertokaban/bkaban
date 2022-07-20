@@ -5,7 +5,7 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-paginate = 7
+paginate = 8
 rssLimit = 10
 disqusShortname = 'kaban-my-id'
 

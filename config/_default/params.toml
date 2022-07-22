@@ -12,7 +12,7 @@ description = "Hanya sebuah catatan kecil untuk hal yang tidak ingin dilupakan."
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
+domainTLD = "kaban.my.id"
 titleHome = "Roberto Kaban"
 
 ## Twitter Cards
@@ -22,7 +22,7 @@ twitterCreator = "@robertokaban"
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Person"
-schemaName = "Doks"
+schemaName = "BlogRobertoKaban"
 schemaAuthor = "Roberto Kaban"
 schemaAuthorTwitter = "https://twitter.com/robertokaban"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/robertokaban/"
@@ -95,7 +95,7 @@ lastMod = false
   instantPage = true
   flexSearch = true
   searchSectionsShow = []
-  searchSectionsIndex = ["artikel"]
+  searchSectionsIndex = ["artikel","coretanku", "python", "html", "php", "javascript", "vbnet", "mysql"]
   darkMode = true
   bootStrapJs = true
   breadCrumb = true

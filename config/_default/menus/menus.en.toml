@@ -1,5 +1,5 @@
 [[docs]]
-  name = "Prologue"
+  name = "Manual"
   weight = 10
   identifier = "prologue"
   url = "/docs/prologue/"
@@ -9,6 +9,7 @@
   weight = 60
   identifier = "help"
   url = "/docs/help/"
+
 
 # [[docs]]
 #   name = "Lorem"

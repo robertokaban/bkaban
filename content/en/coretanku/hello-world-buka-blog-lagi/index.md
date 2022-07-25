@@ -2,8 +2,8 @@
 title: "Hello World! Buka Blog lagi.."
 description: "Seingat saya terakhir aktivitas di sini dengan memindahkan beberapa artikel teman lama (alm. Roy) dari blog sebelumnya itgeek yang sudah tidak terurus dan expired."
 excerpt: "Seingat saya terakhir aktivitas di sini dengan memindahkan beberapa artikel teman lama (alm. Roy) dari blog sebelumnya itgeek yang sudah tidak terurus dan expired."
-date: 2020-06-29T13:57:55+07:00
-lastmod: 2020-06-29T13:57:55+07:00
+date: 2022-06-29T13:57:55+07:00
+lastmod: 2022-06-29T13:57:55+07:00
 draft: false
 weight: 50
 images: []

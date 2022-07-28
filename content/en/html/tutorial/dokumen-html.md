@@ -1,7 +1,7 @@
 ---
 title: "Dokumen HTML"
-description: "Pengertian HTML."
-lead: "Pengertian HTML."
+description: "Dokumen **HTML** harus dimulai dengan deklarasi tipe dokumen `<!DOCTYPE html>`"
+lead: ""
 date: 2021-12-06T08:49:31+00:00
 lastmod: 2021-12-06T08:49:31+00:00
 draft: false

@@ -1,8 +1,7 @@
 ---
 title: "Elemen HTML"
-description: "Editor HTML"
-lead: "HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk menentukan konten dan
-struktur halaman web."
+description: "bisa dikatakan segalanya mulai dari tag awal hingga tag akhir."
+lead: ""
 date: 2021-12-06T08:49:31+00:00
 lastmod: 2021-12-06T08:49:31+00:00
 draft: false

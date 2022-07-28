@@ -1,8 +1,7 @@
 ---
 title: "Atribut HTML"
-description: "Editor HTML"
-lead: "HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk menentukan konten dan
-struktur halaman web."
+description: "HTML Attribute adalah suatu atribut untuk melengkapi informasi dari suatu elemen HTML"
+lead: ""
 date: 2021-12-06T08:49:31+00:00
 lastmod: 2021-12-06T08:49:31+00:00
 draft: false

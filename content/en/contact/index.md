@@ -9,9 +9,10 @@ images: []
 
 Silakan hubungi saya melalui salah satu akun dibawah:
 
-email: robertokaban@gmail.com
-fb: roberto.kaban
-twitter:robertokaban
-github: robertokaban
-vk:roberto.kaban
-instagram: robertokaban
+- email: robertokaban@gmail.com
+- fb: roberto.kaban
+- twitter: robertokaban
+- github: robertokaban
+- vk: roberto.kaban
+- instagram: robertokaban
+- youtube: <a href='https://www.youtube.com/channel/UCEkxEaqpzZQJb3NDwc4B-ew'>https://www.youtube.com/channel/UCEkxEaqpzZQJb3NDwc4B-ew</a>

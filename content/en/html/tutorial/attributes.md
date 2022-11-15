@@ -24,7 +24,7 @@ HTML Attribute adalah suatu atribut untuk melengkapi informasi dari suatu elemen
 - Attribute selalu berbapasangan dengan value/nilai, seperti: `href="google.com"`
 - Value/Nilai dari attribute harus selalu dibungkus menggunakan double quote/petik dua (").
 
-### Contoh Penerapan Attribute Pada HTML
+## Contoh Penerapan Attribute Pada HTML
 
 #### `href` Attribute
 

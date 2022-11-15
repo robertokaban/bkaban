@@ -1,6 +1,7 @@
 ---
 title: "Pengenalan HTML"
-description: "Pengertian HTML."
+description: "HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk menentukan konten dan
+struktur halaman web."
 lead: "HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk menentukan konten dan
 struktur halaman web."
 date: 2021-12-06T08:49:31+00:00

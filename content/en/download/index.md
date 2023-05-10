@@ -8,6 +8,3 @@ images: []
 ---
 Halaman ini berisi link download atas Modul Perkuliahan, Modul Praktek, Buku Refrensi, Software dan lain-lain.
 
-## Modul Kuliah
-### Pemrograman Berorientasi Objek
-- [Modul Pertemuan 2](https://drive.google.com/file/d/1TpiXL6_gM9vxeiFBYcbY1BluHw0IYn8I/view?usp=sharing)

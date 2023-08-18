@@ -11,7 +11,7 @@ toc: true
 
 
 ---
-## Apa itu MySQL
+## Apa itu Vb.Net
 VB.NET adalah bahasa pemrograman berorientasi objek yang dikembangkan oleh Microsoft. VB.NET adalah bahasa pemrograman turunan dari Visual Basic, dan merupakan bagian dari platform .NET Framework. VB.NET digunakan untuk mengembangkan aplikasi desktop dan web, serta aplikasi berbasis jaringan dan aplikasi mobile.
 
 VB.NET dirilis pada tahun 2002 dan terus dikembangkan oleh Microsoft. VB.NET memiliki sintaks yang mudah dipahami dan dipelajari, serta memiliki banyak fitur canggih yang memungkinkan pengembang untuk membangun aplikasi yang kompleks dan kuat.

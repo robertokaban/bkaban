@@ -1,5 +1,5 @@
 ---
-title: "Pesta Tahunan 2023"
+title: "Kerja Tahun (Karo): Pesta Tahunan 2023"
 description: "Dalam tradisi suku Karo terdapat perayaan yang namanya Kerja Tahun (Pesta Tahunan) atau disebut juga Merdang Merdem. Kerja Tahun merupakan suatu pesta yang dilakukan secara turun temurun oleh suku Karo dengan tujuan menjaga ketentraman dan keseimbangan bermasyarakat serta membangun komunikasi dengan keluarga yang sudah lama tidak bertemu. Kali ini, Pesta tahunan di kampung saya dilaksanakan pada tanggal 7 dan 8 Juli 2023."
 excerpt: "Dalam tradisi suku Karo terdapat perayaan yang namanya Kerja Tahun (Pesta Tahunan) atau disebut juga Merdang Merdem. Kerja Tahun merupakan suatu pesta yang dilakukan secara turun temurun oleh suku Karo dengan tujuan menjaga ketentraman dan keseimbangan bermasyarakat serta membangun komunikasi dengan keluarga yang sudah lama tidak bertemu. "
 date: 2023-07-10T21:57:50+07:00
@@ -24,7 +24,10 @@ Perjalanan Berastagi ke kampung, saya langsung dari Jl. Udara Berastagi, tidak m
 
 
 ## Jiarah ke Makam Keluarga
-Foto Jiarah, mengantar Bunga
+Tahun ini sedikit berbeda dengan tahun sebelumnya. Tahun-tahun sebelumnya biasanya saya jiarah hanya sendiri atau sesuai waktu sampai di kampung. Tahun ini kami jiarah ramai beserta keluarga besar karena dalam keluarga ada yang meninggal dalam tahun yang sama dengan pesta tahunan. Dalam orang karo ada istilah 'Rendem' yang artinya masih masa berduka karena ada anggota keluarga kita yang meninggal dalam kurun waktu setahun. Anggota keluarga kita tidak dapat ikut dalam pesta tahunan. Kami kehilangan Mamak Tengah (Istri dari adik bapak saya).
+
+
+Foto Jiarah, mengantar Bunga.
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_6NBWphWoz7BVNjQkVjemAKiI7FZpFfTwdk_8fSFsm1HqONraKXlBxr7vh2raGgyJ0dEHgAmBABgxwLTvJhqG8jvGOZPnwM4ruZAx79wnXpc7Qcnngbb7tBMTZHAAbcUAASexTuLPmf8nov6E42xU9LMUE2TAkP7fnWiXoB6nirLKB4I0EMn7L01EN0Y/s16000/IMG20230708075756.jpg' width="100%" class="border-0 rounded">
 
 
@@ -40,9 +43,9 @@ Foto Jiarah, mengantar Bunga
 
 
 ## Jiarah Ke Makam Keluarga dari Mamak
-Biasanya kalau pulang kampung, saya akan jiarah ke tempat Kakek dan Nenek dari Mamak terlebih dahulu di Desa Mardingding, Kecamatan Tiganderket, tetapi karena kali ini sudah malam maka langsung saja pulang ke kampung. Kami Jiarah ketika perjalanan mau pulang ke medan.
+Biasanya kalau pulang kampung, saya akan jiarah ke tempat Kakek (Bulang) dan Nenek dari Mamak (iting) terlebih dahulu di Desa Mardingding, Kecamatan Tiganderket, tetapi karena kali ini sudah malam maka langsung saja pulang ke kampung. Kami Jiarah ketika perjalanan mau pulang ke medan. Saya lupa foto sewaktu jiarah, tetapi saya tidak pernah lupa untuk singgah jiarah setiap pulang ke kampung.
 
 ## Perjalanan Kampung - Medan
-Foto istirahat di Penatapen
+Setelah Jiarah di Makam keluarga dari mamak, kami melanjutkan perjalanan ke Medan. Kalau perjalanan ke kampung saya hanya bertiga dengan istri dan anak, perjalanan pulang kami berlima dengan mertua. Tidak lupa singgah sebentar di Penatapen Berastagi dan melanjutkan makan malam di Daerah sibolangit (lupa foto juga :-) ).
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMQbzh-m8sCKmR0csiMtiy1DoUffvR04PCXP8Wu0FU1wY5kospaMagWr7iSvDm4K-eaeS6LfpIpTe4iiuz6znYwXVv5cy18rX-iCioMG5plAIpHyJPIPW79ntxqyZG1lt0DCe_4lZgDyj0KAmVwgrw1GwbvD9ux8fFt2wWXe3qvq8o7LSiUDPIO84FXFM/s16000/IMG20230708184316.jpg' width="100%" class="border-0 rounded">
 

@@ -15,4 +15,4 @@ Silakan hubungi saya melalui salah satu akun dibawah:
 - github: robertokaban
 - vk: roberto.kaban
 - instagram: robertokaban
-- youtube: <a href='https://www.youtube.com/channel/UCEkxEaqpzZQJb3NDwc4B-ew'>https://www.youtube.com/channel/UCEkxEaqpzZQJb3NDwc4B-ew</a>
+- youtube: <a href='https://www.youtube.com/@robertokaban'>https://www.youtube.com/@robertokaban</a>

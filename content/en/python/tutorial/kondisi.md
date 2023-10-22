@@ -13,7 +13,7 @@ toc: true
 ## Kondisi If
 Pengambilan keputusan (kondisi if) digunakan untuk mengantisipasi kondisi yang terjadi saat jalanya program dan menentukan tindakan apa yang akan diambil sesuai dengan kondisi.
 
-Pada python ada beberapa statement/kondisi diantaranya adalah if, else dan elif Kondisi if digunakan untuk mengeksekusi kode jika kondisi bernilai benar True.
+Pada python ada beberapa statement/kondisi diantaranya adalah `if`, `else` dan `elif` Kondisi if digunakan untuk mengeksekusi kode jika kondisi bernilai benar True.
 
 Jika kondisi bernilai salah False maka statement/kondisi if tidak akan di-eksekusi.
 

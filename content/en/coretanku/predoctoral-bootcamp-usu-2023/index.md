@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: []
 categories: ["Blog"]
-tags: ["Kuliah, Cerita Perkuliahan"]
+tags: ["Kuliah", "Cerita Perkuliahan"]
 contributors: ["Roberto Kaban"]
 pinned: false
 homepage: false

@@ -1,7 +1,7 @@
 ---
 title: "Pernikahan dan Pesta adat Karo: Roberto Kaban dan Shella Sari Keliat 2021"
-description: "Pernikahan dan Pesta adat Karo: Roberto Kaban dan Shella Sari Keliat 2021"
-excerpt: "Dokumentasi pernikahan Roberto Kaban dan Shella Sari Keliat pada tahun 2021. Berisi foto-foto pernikahan dan pelaksanaan adat Karo"
+description: "Lokasi pernikahan awalnya akan dilaksanakan di rumah orang tua istri, tetapi beralih tempat ke Losd Pekan Minggu Desa Suka Raya, kecamatan Pancur Batu, Deli Serdang, karena dekat dengan rumah istri dan tersedia tempat yang lebih luas untuk acara resepsi pada malam harinya."
+excerpt: "Lokasi pernikahan awalnya akan dilaksanakan di rumah orang tua istri, tetapi beralih tempat ke Losd Pekan Minggu Desa Suka Raya, kecamatan Pancur Batu, Deli Serdang, karena dekat dengan rumah istri dan tersedia tempat yang lebih luas untuk acara resepsi pada malam harinya."
 date: 2021-02-20T23:30:55+07:00
 lastmod: 2021-02-20T23:30:55+07:00
 draft: false
@@ -70,4 +70,26 @@ Foto Undangan tampak depan
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgowH60tRc8QGf8ZrOT2DiOSHl-3FPMWBxgAtDdCxtKDh5f0GI6GDiaTzTgurzXZERDGZ06vzSCALvD6QxKpvvQYcn_P9h7N6gyBEbMiUndAbZY7WwmlyMlKtCz1gu7c-FmFqnWZ3YObNA-0q7LqRR1_Qi9S7fxptvHLif5glWODcIvV3jZwd7EbdHX/s16000/Roberto---Undangan-Depan.jpg' width="100%" class="border-0 rounded">
 
 ## Dokumentasi Pelaksanaan Pesta Adat Karo
-[menyusul]
+Foto Saya dengan Istri (1)
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXOqyxmduyVmwB27HdzF2GUYpalLxGsLWbq2klceKnJuyc8BIxl2oeJ37wp_7iPIS2C_dJxKXgTR55rP33pG0iAm1HZ5sKYQD-FnBunRtUCgsl2Z5O-ZPJ3VyyCZH65FLCwzpQh0L5qd-Ed7LKLK31o3S7k5bRO6GVfloujO2FnHNNtTE06_CnGiBUVY/w372-h640/foto-karo-4.jpg' width="100%" class="border-0 rounded">
+
+Foto Saya dengan Istri (2)
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn6HvvYlj9Xz-zeXLf8viEyiNDIo71pi1nP5EHdYX4JpQw37fRRQJi9if4GY9KwYZrZAAjV-kmU9_Iv2OdExnjMtU2z4paX3NuNRzh2zValz0EOcIXvYSuMJhO3wMpB3MXoWi0Nrds3ZB0V3mQRIcGOBxsLp1b_zxYQ0-AU1FaTE8xyoWcGkGEYMFOdW4/w426-h640/foto-karo-5.jpg' width="100%" class="border-0 rounded">
+
+Foto Saya dengan Istri (3)
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9dbovviF2OYz-U3tekmNzgot71qX-tv7MWw_QtaJvU2HECIQRFro2vvo9Xc-3ynxgHBwJv40w98SDuvbys-hhSz2SZRjYYc21SXU2oRlu7q1RtMjXEmyCm06svPR_6Fkc9xyBpc_JXeTywDSi2I7RlMNXxqjUgY6Kq1xXXekvr_X4up5Zw4yX5iBm6vk/w426-h640/foto-karo-6.JPG' width="100%" class="border-0 rounded">
+
+
+Foto Saya dengan Istri (4)
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKGFXxpsQ0eAnN_ZbuFgvmr6rbGdglgczHu8d8dZqaz-0twQuyPGO854ue8AKgQeXeaiFmY8obazmWN4-0Ac2T_QER3ucvpT92_iEil4I2wMpGnob7YwFw9oEjsCiBc1L_CU7T-UFnFmbRdMgPOwxJE_s09aOIhFDT_6bDQRNMb4yKkqHjFcZiv8QoTno/w640-h426/foto-karo-3.jpg' width="100%" class="border-0 rounded">
+
+Foto dengan Kedua Orang Tua Saya
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2fkLfFdGe5rARBT175Owabx_dqAdYExCqFcWxT-mi8-rRWnFzxBv7FYWuheN4eSGlQ40zIOK40nnI7PMEq7IOBZbwJF1g44CLkhFE18fijLKlhsSr3PLpdg2_QXlDoGXxS0AyIhaVUG2W_v3G1LLL8P2NPbbjXqRUVjh8tPN7LVOd6h7ojqUQB_ExoYE/w640-h426/foto-karo-1.JPG' width="100%" class="border-0 rounded">
+
+Foto dengan Kedua Orang Tua Istri Saya
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcFBXW25Zy_HwxYgIq057aFKFy7o_TOr_fJbVudC_NSWhwlOWJKFTziN1PhxizAe3HCtIm83pExF4NK4vhKMesdFIjvMFw36CX8BOenjB3YP-Bti08c22T3VVkFshUJng5fzWJ6bRlAZg-S-rS0Kk294Zv1C0FtO6QCf9ivfzFtueYcO4gmp5fPEChuI/w640-h426/foto-karo-2.JPG' width="100%" class="border-0 rounded">
+
+Foto Keluarga Saya dan Istri
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLnZfACzENmE8Pst_hIYSdcd655sPwRoLlOoKtEY5Gth3BXtABx2dONgwBkwrydo66-Lb6pTsz_KO5_LreqC7FZFkCSon3wb6dTFFbWscIJWK1_iMm2exhlHpHp8Ufh4z45zWiDYusat_YLGVljW8QCTTluWj-g4YlBilXU-soSDAQthkFdLPSqC0NFnA/w640-h426/foto-karo.JPG' width="100%" class="border-0 rounded">
+
+

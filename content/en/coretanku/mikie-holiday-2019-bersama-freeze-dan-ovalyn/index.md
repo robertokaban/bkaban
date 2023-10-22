@@ -8,7 +8,7 @@ draft: false
 weight: 50
 images: []
 categories: ["Blog"]
-tags: ["Ceritaku, Liburan"]
+tags: ["Ceritaku", "Liburan"]
 contributors: ["Roberto Kaban"]
 pinned: false
 homepage: false

@@ -1,21 +1,21 @@
 ---
 title: "Selamat Ulang Tahun yang ke-2 untuk Faresta"
-description: "Selamat Ulang Tahun untuk Faresta Rskel Kaban yang ke-2. Tidak ada perayaan khusus, saya juga cuma membelikan kue dan hadiah mainan bola basket beserta jaring dan papan puzzle susun huruf. Tapi ulang tahun ke-2 ini begitu berkesan karena Fares sakit seminggu sebelum ulang tahun, panas demam panas tinggi."
-excerpt: "Selamat Ulang Tahun untuk Faresta Rskel Kaban yang ke-2. Tidak ada perayaan khusus, saya juga cuma membelikan kue dan hadiah mainan bola basket beserta jaring dan papan puzzle susun huruf. Tapi ulang tahun ke-2 ini begitu berkesan karena Fares sakit seminggu sebelum ulang tahun, panas demam panas tinggi."
+description: "Selamat Ulang Tahun untuk Faresta Rskel Kaban yang ke-2. Tidak ada perayaan khusus, saya juga cuma membelikan kue dan hadiah mainan bola basket beserta jaring dan papan puzzle susun huruf. Tapi ulang tahun ke-2 ini begitu berkesan karena Fares sakit seminggu sebelum ulang tahun, panas demam tinggi."
+excerpt: "Selamat Ulang Tahun untuk Faresta Rskel Kaban yang ke-2. Tidak ada perayaan khusus, saya juga cuma membelikan kue dan hadiah mainan bola basket beserta jaring dan papan puzzle susun huruf. Tapi ulang tahun ke-2 ini begitu berkesan karena Fares sakit seminggu sebelum ulang tahun, panas demam tinggi."
 date: 2023-08-22T20:40:30+07:00
 lastmod: 2023-08-22T20:40:30+07:00
 draft: false
 weight: 50
 images: []
 categories: ["Blog"]
-tags: ["Ceritaku, Ulang tahun Faresta"]
+tags: ["Ceritaku", "Ulang tahun Faresta"]
 contributors: ["Roberto Kaban"]
 pinned: false
 homepage: false
 toc: true
 ---
 ## Ulang tahun yang ke-2
-Selamat ulang yang ke-2 Tahun untuk Faresta Rskel Kaban. Tidak ada perayaan khusus, paling tidak kita makan kue sama ya Nak.
+Selamat ulang yang ke-2 Tahun untuk Faresta Rskel Kaban. Tidak ada perayaan khusus, paling tidak kita makan kue tar sama ya Nak. Perayaannya juga cuma kita bertiga.
 
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA27Jfs7AKNI4Ug85K6TdlWQKrYsl5KrrjnSbhiKKELA--ECJm4JAUPjxMBYrQ0t2XGpIyBrWibxFjBUAQQ60TNa9M_Au83ltPAbakX3hL7toD4xpiZnXOpdELwsgrKFsej3Kq1AiXeLZxx1PuhjAe52p_ZUx4omANoErEUce_rhWt4_PpILR_jzVSMqw/w640-h304/IMG20230821192309.jpg' width="100%" class="border-0 rounded">
 
@@ -26,10 +26,10 @@ Mamaknya belikan baju kaos
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVtZ5qCElt5ZrpzDkpEApZxv0GgXmirjdZv-Z71OIOpIVUhd90BXvjX5Y33ZLHVPbKlagZQUab4KEyOgEUN9vI8iUWZgC6KjtGBLNiDT_quBb1DsUeVV5cHSQZHeMyQpB9xXE-xDv1dH1OphWfV26aZE1eF9cjyQppoZ86c5i3HD-ryqFt074DaAY1UZA/w640-h304/IMG20230821192454.jpg' width="100%" class="border-0 rounded">
 
 ## Ulang Tahun pertama
-Ulang tahun Faresta yang pertama kami rayakan di tempat (warung mertua).
+Ulang tahun Faresta yang pertama kami rayakan di tempat (warung) mertua.
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8POApI8QV2W_Njp81y4wiETq9mGhVjDJaqkkX9gqoMvIzJpf3TLInXnntXjXFjNdi0xdu8gqg1DmwcUL9eEmGuUw3P8Y7qBGzg8J1vlkIJboP48l7ewaLE9zw1q9lG_hxdwEsNasB-8fQMz7rCI8Jhk-G07O0V0QtGT7GhCykvHeVyy5AkmGPj_cctU4/w480-h640/IMG20220821203252.jpg' width="100%" class="border-0 rounded">
 
-Ulang tahun Faresta yang pertama kami rayakan di tempat (warung mertua), beserta bibik2nya.
+Ulang tahun Faresta yang pertama kami rayakan di tempat (warung) mertua., beserta bibik2nya.
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBaIX1Dg2jtR_n-_LnFX9jui2kT11qkDN2AS9WG7Yab0qx87mJconNYbTfi_7DiRilIPOHFkrqh5HaRREPhJONImOEsCvaYpdIqm-MFC4IkkKtF3HgLwyHpl_nCLVqq4owD5ykW5DBXK4Sc2Vcp7pR1kMyldQGqRCheES2oJJQOEx_i_4PtGHPKbXXA1I/w640-h640/IMG20220821203231.jpg' width="100%" class="border-0 rounded">
 
 ## Kelahiran

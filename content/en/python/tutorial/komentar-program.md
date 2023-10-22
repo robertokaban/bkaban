@@ -10,11 +10,11 @@ weight: 140
 toc: true
 ---
 ## Apa itu komentar program?
-Komentar (comment) adalah kode di dalam script Python yang tidak dieksekusi atau tidak dijalankan mesin. Komentar hanya digunakan untuk menandai atau memberikan keterangan tertulis pada script.
+Komentar (comment) adalah kode di dalam script Python yang tidak dieksekusi atau tidak dijalankan komputer. Komentar hanya digunakan untuk menandai atau memberikan keterangan tertulis pada script.
 
 Komentar biasa digunakan untuk membiarkan orang lain memahami apa yang dilakukan script. atau untuk mengingatkan kepada programmer sendiri jika suatu saat kembali mengedit script tersebut.
 
-Untuk menggunakan komentar anda cukup menulis tanda pagar #, diikuti dengan komentar Anda.
+Untuk menggunakan komentar Kita cukup menulis tanda pagar #, diikuti dengan komentar.
 
 Dibawah ini adalah contoh penggunaan komentar pada Python
 ## Komentar satu baris
@@ -48,4 +48,4 @@ print("Budi")
 #mencetak angka/integer
 print(123)
 ```
-Saat anda menjalankan script diatas, Anda akan melihat output berupa __Hello World__, __Budi__ dan __123__, karena tulisan/komentar yang ditulis tidak dieksekusi.
+Saat menjalankan script diatas, Kita akan melihat output berupa __Hello World__, __Budi__ dan __123__, karena tulisan/komentar yang ditulis tidak dieksekusi.

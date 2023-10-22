@@ -1,7 +1,7 @@
 ---
 title: "Tuple di dalam Python"
-description: "Kondisi dalam Python."
-lead: "Kondisi dalam Python."
+description: "Tuple di dalam Python."
+lead: "Tuple di dalam Python."
 date: 2021-12-06T08:49:31+00:00
 lastmod: 2021-12-06T08:49:31+00:00
 draft: false

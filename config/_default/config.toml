@@ -24,6 +24,7 @@ section = ["HTML", "RSS", "SITEMAP"]
 suffixes = [""]
 delimiter = ""
 
+
 # add output format for netlify _redirects
 [outputFormats.REDIRECTS]
 mediaType = "text/netlify"
